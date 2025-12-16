@@ -1,0 +1,1 @@
+This repository contains helpful scripts for plotting Kyle Mattingly's ERA5 AR detections. Code for this dataset is located at https://github.com/ksmattingly/AR_alg_v2. The ERA5 detection dataset will soon be available on the University of Michigan DeepBlue data repository. 
